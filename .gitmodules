@@ -1,0 +1,6 @@
+[submodule "lines"]
+	path = lines
+	url = https://github.com/roz-c-joyce/lines.git
+[submodule "roz_joyce"]
+	path = roz_joyce
+	url = https://github.com/roz-c-joyce/lines.git
